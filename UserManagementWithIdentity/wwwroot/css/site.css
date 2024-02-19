@@ -20,3 +20,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+/* Custom Styles */
+.profile-picture {
+    height: 295px;
+    width: 295px;
+    object-fit: cover;
+}
+
+
